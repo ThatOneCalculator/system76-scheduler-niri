@@ -15,6 +15,10 @@ as a home manager module.
 
 **Note**: system76-scheduler has to be enabled separately with `services.system76-scheduler.enable`.
 
+### Arch Linux
+
+An [AUR package](https://aur.archlinux.org/packages/system76-scheduler-niri-git) is available as `system76-scheduler-niri-git`.
+
 ## Usage
 
 Simply start `system76-scheduler-niri` when Niri starts.
